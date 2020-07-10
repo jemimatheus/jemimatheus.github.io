@@ -1,0 +1,15 @@
+header#main-header{
+background:	#DC143C;
+height:100px ;
+font-size: 20px;
+color:#fff;
+display: flex;
+align-items: center;
+justify-content: center;
+font-weight:bold;
+background-image: url('https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif');
+
+
+
+
+}

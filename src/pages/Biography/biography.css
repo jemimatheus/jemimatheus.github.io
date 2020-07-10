@@ -1,0 +1,23 @@
+
+.biography-info{
+    max-width:700px;
+    margin: 20px auto 0;
+    padding: 20px 20px;
+   border-radius: 5px;
+   border: 2px solid rgb(214, 211, 211);
+   margin-bottom: 15px;
+}
+
+h1{
+    font-size: 16px;
+    font-weight: bold;
+   
+}
+.read-more >a{
+    text-decoration: none;
+    color: #3a0224;
+}
+.read-more > a:hover{
+    color:#ffff;
+    background-color:#f32525;
+}
